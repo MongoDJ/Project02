@@ -10,6 +10,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.print("Hello IntelliJ IDEA");
         ArrayList list=new ArrayList();
+        System.out.println("被这只猫弄晕了");
 
     }
 }
