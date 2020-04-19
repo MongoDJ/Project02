@@ -8,7 +8,7 @@ import java.util.ArrayList;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.print("Hello IntelliJ IDEA");
+        System.out.print("Hello IntelliJ IDEA\n");
         ArrayList list=new ArrayList();
         System.out.println("被这只猫弄晕了");
 
